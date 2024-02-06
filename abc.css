@@ -1,0 +1,22 @@
+*{
+    
+}
+
+.h1class{
+    color: orange;
+    font-size: 25px;
+    background-color: white;
+    text-align: center;
+    border: black 12px solid ; border-radius: 15px;
+    width: 180px;
+    padding-left: 20px; padding-right: 50px; padding-top:4px; padding-bottom: 4px;
+    margin: 40px;
+
+}
+*{
+
+}
+
+
+
+
